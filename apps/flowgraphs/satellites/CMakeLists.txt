@@ -25,5 +25,6 @@ GR_PYTHON_INSTALL(
     satnogs_amsat_fox_duv_decoder.py
     satnogs_noaa_apt_decoder.py
     satnogs_meteor_decoder.py
+    satnogs_fsk9600_g3ruh_ax25_skcube.py
     DESTINATION bin
 )
